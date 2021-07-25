@@ -1,0 +1,354 @@
+#main1 {
+    width: 60%;
+    margin: 100px 200px;
+    background-color: white;
+  }
+  #main1 img {
+    height: 220px;
+    width: auto;
+    float: left;
+    margin-right: 90px;
+    background-color: white;
+  }
+  #main1{
+      text-align: center;
+      font-size: 13px;
+  }
+  *{
+    font-family: 'Poppins', sans-serif;
+    }
+#main1 h1{
+        color: orange ;
+    }
+
+    /* Explore section*/
+    
+    #explore{
+        font-family: 'Poppins', sans-serif;
+        background-color: azure;
+       
+        }
+        #first {
+            width: 26%;
+        padding-right: 60px;
+        }
+      #first h4{
+            margin-bottom: -15px;
+            text-align: start;
+             }
+        #first p{
+            text-align: center;
+            font-size: 13px;
+         }
+        
+          #first img {
+            height: 120px;
+            width: auto;
+            float: left;
+            margin-right: -30px;
+            }
+            h2{
+                text-align: center;
+                padding: 5px;
+            }
+            h2 span{
+                color: #6CB840;
+            }
+        #second{
+            width: 26%;
+            padding-right: 60px;
+        }
+        #second h4{
+                margin-bottom: -15px;
+                text-align: start;
+            
+            }
+        #second p{
+            text-align: center;
+            font-size: 13px;
+        
+        }
+          #second img {
+            height: 120px;
+            width: auto;
+            float: left;
+            margin-right: -30px;
+            }
+            #third{
+                width: 26%;
+                padding-right: 65px;
+            }
+            #third h4{
+                    margin-bottom: -15px;
+                    text-align: start;
+                
+                }
+            #third p{
+                text-align: center;
+                font-size: 13px;
+            
+            }
+              #third img {
+                height: 120px;
+                width: auto;
+                float: left;
+                margin-right: -30px;
+                }
+            #fourth{
+                    width: 19%;
+                    padding-right: 60px;
+                   
+                }
+            #fourth h4{
+                        margin-bottom: -15px;
+                        text-align: start;
+                    
+                    }
+            #fourth p{
+                    text-align: center;
+                    font-size: 13px;
+                
+                }
+            #fourth img {
+                    height: 120px;
+                    width: auto;
+                    float: left;
+                    margin-right: -30px;
+                    margin-left: -73px;
+                    margin-bottom: 30px;
+            }
+            #fifth{
+                width: 26%;
+                padding-right: 60px;
+            }
+            #fifth h4{
+                    margin-bottom: -15px;
+                    text-align: start;
+                
+                }
+            #fifth p{
+                text-align: center;
+                font-size: 13px;
+            
+            }
+              #fifth img {
+                height: 120px;
+                width: auto;
+                float: left;
+                margin-right: -30px;
+                margin-bottom: 30px;
+                }
+                #sixth{
+                    width: 26%;
+                    padding-bottom: 20px;
+                }
+                #sixth h4{
+                        margin-bottom: -15px;
+                        text-align: start;
+                    
+                    }
+                #sixth p{
+                    text-align: center;
+                    font-size: 13px;
+                
+                }
+                  #sixth img {
+                    height: 120px;
+                    width: auto;
+                    float: left;
+                    margin-right: -30px;
+                    margin-bottom: 30px;
+                    }
+        main{
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        /* Hot deals sectiion*/
+        
+        #hot-deals{
+            font-family: 'Poppins', sans-serif;
+            background-color: #C9ECB5;
+        }
+        #hot-deals h2{
+            text-align: center;
+            padding-top: 10px;
+        }
+        #hot-deals h2 span{
+            color: #6CB840;
+        }
+        #main2 {
+           
+            margin: 10px 50px;
+            padding-bottom: 50px;
+            padding-right: 10px;
+          }
+          #main2 .juice {
+            width: auto;
+            float: left;
+            margin-right: -150px;
+            margin-top: -110px;
+            margin-left: -50px;
+            
+          }
+          #main2 h2{
+              text-align: start;
+              padding-bottom: -20px;
+          }
+          #main2 h1{
+              color: #6CB840;
+              padding-bottom: -10px;
+              
+          }
+          #main2 p{
+              width: 85%;
+          }
+          #main2 .burger {
+            width: auto;
+            float: left;
+            margin-top: 90px;
+            margin-left: -70px;
+          }
+
+        /*contact us*/
+#contact{
+    font-family: 'Poppins', sans-serif;
+    background-color: #FFD77C;
+    padding: 10px;
+}
+#contact span{
+    color: #6CB840;
+}
+#contact h2{
+    text-align: center;
+}
+#contact p{
+    margin: 0 460px;
+    text-align: center;
+}
+#contact form {
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+#contact input{
+    width: 400px;
+    border: 15px solid white;
+    border-radius: 20px;
+}
+#contact button{
+    background-color: #6CB840;
+    color: white;
+    margin-left: 550px;
+    border: 13px solid #6CB840;
+    width: 130px;
+    border-radius: 25px;
+
+}
+  /* footer*/
+
+  footer{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+   padding-left: 50px;
+   padding-top: 35px;
+   background-color: azure;
+}
+#section1{
+    width: 15%;
+    padding-right: 45px;
+}
+#section2{
+    width: 25%;
+    padding-top: 40px;
+    padding-right: 70px;
+    border-left: dotted #6CB840 ;
+    padding-left: 35px;
+
+}
+#follow{
+    width: 25%;
+    padding-top: 40px;
+    padding-right: 40px;
+}
+#send button{
+    width: auto;
+    background-color: #6CB840;
+    color: white;
+    border: 5px solid #6CB840;
+
+}
+#send{
+    padding-top: 100px;
+
+}
+/*header*/
+
+nav ul li a{
+    font-family: 'Poppins', sans-serif;
+    padding: 20px;
+    text-decoration: none;
+    color: black; 
+}
+nav ul li{
+    display: inline;
+}
+nav ul li #street-food{
+    font-weight: 200;
+}
+nav{
+    padding-top: 20px;
+    padding-left: 20px;
+
+}
+nav ul li a #logo{
+    padding-right: 40px;
+}
+header{
+    padding-left: 20px;
+    padding-bottom: 70px;
+    font-family: 'Poppins', sans-serif;
+    background-color: azure;
+    background-image: radial-gradient(closest-corner at 75% 30%, #6CB840, azure);
+}
+#food{
+    width: 30%;
+    padding-left: 85px;
+    padding-top: 40px;
+    border-bottom: 20px;
+}
+#food h1{
+    color: #6CB840;
+}
+#food span{
+    color: #EAAB1B;
+}
+#order{
+    padding-left: 85px;
+}
+#order button{
+    background-color: #6CB840;
+    color: white;
+    border: 10px solid #6CB840;
+    border-radius: 15px;
+    width: 120px;
+}
+#plate{
+    display: flex;
+    float: right;
+    padding-right: -300px;
+    padding-top: 190px;   
+}
+#one{
+    display: flex;
+    float: right;
+    padding-right: 300px;
+    padding-left: -50px;
+}
+#insta img{
+    background-color: azure;
+}
+
+
+
